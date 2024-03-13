@@ -14,7 +14,6 @@ The main aim of this endeavor is to aid Lending Club in alleviating credit losse
 - [General Info](#general-information)
 - [Conclusions](#conclusions)
 - [Technologies Used](#technologies-used)
-- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 ## General Information
@@ -62,14 +61,6 @@ The main goal of this exercise is to aid Lending Club in minimizing credit losse
 - [Matplotlib](https://matplotlib.org/) - version 3.7.1
 - [Pandas](https://pandas.pydata.org/) - version 1.5.3
 - [Seaborn](https://seaborn.pydata.org/) - version 0.12.2
-
-## Acknowledgements
-
-Give credit here.
-
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 ## Contact
 
